@@ -3,4 +3,4 @@ type: APPLICATION
 branchName: main
 gitConnector: Nischit Test GitHub Account
 isGitSyncEnabled: true
-repoName: portfolio
+repoName: porfolio
